@@ -1,0 +1,196 @@
+*{margin: 0px;}
+
+.navbar{
+    display: flex;
+    background-color: #fcfafb;
+    padding: 0px;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+
+.navbar1{
+    margin-left: 40px;
+    display: flex;
+margin-bottom: 1px;
+padding: 1px;
+/*margin-right: 400px;*/
+}
+.navbar2{
+    display: flex;
+margin-bottom: 1px;
+padding: 1px;
+}
+
+
+span{color: orangered;}
+
+.jb {
+    color: purple;
+    margin-top: 15px;
+    margin-right: 40px;
+padding: 5px;
+font-size: 30px;
+font-weight: bold;
+}
+
+
+
+.about{
+    margin-top: 15px;
+    margin-right: 40px;
+padding: 5px;
+}
+
+.services{
+    margin-top: 15px;
+    margin-right: 40px;
+padding: 5px;
+}
+
+.jobs{
+    margin-top: 15px;
+    margin-right: 40px;
+padding: 5px;
+}
+
+.home{
+    margin-top: 15px;
+    margin-right: 40px;
+padding: 5px;
+}
+
+.client{
+    margin-top: 15px;
+    margin-right: 40px;
+padding: 5px;
+}
+
+
+button{
+    background-color: rgba(82, 5, 133, 0.822);
+color: white;
+font-weight: 1px;
+font-size: 15px;
+border: none;     
+border-radius: 5px;
+text-shadow: #6b4848;
+padding: 20px;
+}
+.register{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.no{
+    justify-content: center;
+    margin-top: 70px;
+    background-color: rgba(250, 212, 163, 0.89);
+    color: white;
+    font-weight: 1px;
+    font-size: 15px;
+    border: 50px;     
+    border-radius: 5px;
+    margin-left: 590px;
+    margin-right: 590px;
+}
+
+img{
+    width: 25px;
+}
+
+.search{
+    margin-left: 100px;
+    font-size:120px;
+    align-items:center ;
+    
+}
+
+
+.get{
+
+    margin-left: 120px;
+    font-size:140px;
+    align-items:center;
+    margin-right: 50px;
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+    font-weight: lighter;
+    color: rgb(128, 128, 128);
+}
+.biggie{
+    text-align: center;
+    align-items: center;
+    
+}
+
+.Bbutton{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;    
+}
+
+.bj{
+   margin-right:100px;
+   margin-left: 500px;
+  
+}
+
+
+.hiw{
+margin-left: 50px;
+background-color: white;
+}
+
+.span1{
+    color:rgb(32, 22, 173)   
+}
+
+.span2{
+    color:rgb(157, 19, 192)   
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.p1{font-size: 20px;
+    text-align: center;
+    font-weight: lighter;
+    color: rgb(128, 128, 128);
+    margin-top: 20px;
+}
+
+.p2{ font-size: 25px;
+    text-align:left;
+    font-weight: lighter;
+    color: rgb(71, 70, 70);  }
+
+.con{
+    display: flex;
+   margin: 30px;
+}
+
+.con .card{
+    border: 1px solid rgb(252, 255, 255);
+    padding: 12px;
+   height: 350px;
+margin-right: 20px;
+background: #fcfafb;
+align-items: center;
+box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+justify-content: space-between;
+}
+
+.loggo{
+    margin-bottom: 25px;
+}
+
+.h2{
+    margin-bottom: 15px;
+}
+
